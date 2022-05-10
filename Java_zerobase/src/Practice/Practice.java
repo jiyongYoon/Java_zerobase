@@ -3,6 +3,6 @@ package Practice;
 // 줄 추가하면 어떻게 되는지?
 public class Practice {
 	public static void main(String[] args) {
-
+		System.out.println("메인은 이거다!!!");
 	}
 }
